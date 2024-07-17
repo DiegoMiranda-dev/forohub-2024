@@ -27,7 +27,8 @@ ForoHub es una API REST diseñada para gestionar el posteo de tópicos en una ap
 - **Gestor de Base de Datos**
 
 ## VISTA PREVIA
-![image](https://github.com/user-attachments/assets/dfd397c7-7da9-4901-9f76-6f3fe13a3c3f)
+![Captura de pantalla 2024-07-16 185137](https://github.com/user-attachments/assets/4279ba63-8c93-4429-b8a2-b698ae8cb69e)
+
 
 
 
