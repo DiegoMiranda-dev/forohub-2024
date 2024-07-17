@@ -1,13 +1,7 @@
-# ForoHub
+
+## ForoHub
 
 ForoHub es una API REST diseñada para gestionar el posteo de tópicos en una aplicación de foros. Utiliza Spring Boot para el backend y JSON Web Tokens (JWT) para la autenticación de usuarios. Con ForoHub, los usuarios pueden crear y gestionar tópicos relacionados con diversos temas de programación.
-
-## Funcionalidades
-- **Registrar Médico**: Permite agregar un nuevo médico a la base de datos.
-- **Eliminar Médico**: Permite eliminar a un médico existente de la base de datos.
-- **Actualizar Médico**: Permite actualizar la información de un médico existente.
-- **Listar Médicos**: Permite obtener una lista de todos los médicos registrados.
-
 
 ## Tecnologías Utilizadas
 
@@ -26,8 +20,9 @@ ForoHub es una API REST diseñada para gestionar el posteo de tópicos en una ap
 - **Maven 3.6.0 o superior**
 - **Gestor de Base de Datos**
 
-## VISTA PREVIA
-![Captura de pantalla 2024-07-16 185137](https://github.com/user-attachments/assets/4279ba63-8c93-4429-b8a2-b698ae8cb69e)
+## Funcionalidad
+![Captura de pantalla 2024-07-16 144412](https://github.com/user-attachments/assets/0433bda9-56c1-42c1-93b3-1e602238bccc)
+
 
 
 
