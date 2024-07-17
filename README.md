@@ -19,7 +19,7 @@ ForoHub es una API REST diseñada para gestionar el posteo de tópicos en una ap
 - **Maven 3.6.0 o superior**
 - **Gestor de Base de Datos**
 
-## Funcionalidad
+## VISTA PREVIA
 ![image](https://github.com/user-attachments/assets/dfd397c7-7da9-4901-9f76-6f3fe13a3c3f)
 
 
